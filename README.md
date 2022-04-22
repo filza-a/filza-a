@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML, CSS, C#, etc
 - 📫 How to reach me: on linkedin @https://www.linkedin.com/in/filzaa
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=filza-a&show_icons=true&theme=tokyonight)
