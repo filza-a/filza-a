@@ -5,11 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my Web Development skills
-- 🌱 I’m currently learning Javascript and CSS
+- 🔭 I’m currently working on my Machine Learning skills
 - 👯 I’m looking to collaborate on Web projects
-- 🤔 I’m looking for help with JS
-- 💬 Ask me about HTML, CSS, C#, etc
 - 📫 How to reach me: on linkedin @https://www.linkedin.com/in/filzaa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filza-a&theme=tokyonight)
